@@ -147,3 +147,36 @@ span{
 .panel-deals{
    font-weight: 700;
 }
+
+
+/* Main-Section */
+.Main-section{
+    background-image: url("MainSection.jpg") ;
+    height: 600px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+/* Main-Section */
+.content-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    margin-bottom: 100px;
+    position: relative; 
+}
+.box-img{
+    height: 220px;
+    width: 240px;
+    margin-top: 100px;
+    margin-left: 60px; 
+}
