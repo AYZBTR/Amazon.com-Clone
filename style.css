@@ -83,5 +83,40 @@
     border-bottom-right-radius: 4px;
     color: #0f1111;
 }
+.nav-search:hover{
+    border: 2px solid orange;
+}
 
 /* Fourth box of navigation bar i.e language icon! */
+.flag{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.select-language{
+    background-color:#0f1111;
+    color: #CCCCCC;
+    font-weight: bolder;
+    border: 0px;
+    font-size: 0.9rem;
+    padding: 5px;
+    height: 53px;
+    width: 55px;
+}
+.select-language:hover{
+    border: 1.5px solid white;
+    
+}
+
+/* fifth item of navigation bar i.e user information tab!!! */
+span{
+    font-size: 0.7rem;
+
+}
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* Sixth item of navigation bar i.e cart */
