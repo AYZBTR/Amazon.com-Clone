@@ -208,3 +208,13 @@ footer{
     font-size: 0.8rem;
     text-decoration: none;
 }
+.footpanel2{
+    background-color: #222f3d;
+    color: white;
+    height: 500px;
+    display: flex;
+}
+ul a {
+    display: block;
+
+}
